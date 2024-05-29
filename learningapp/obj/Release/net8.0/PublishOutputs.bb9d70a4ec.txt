@@ -1,0 +1,7 @@
+C:\Projekte\FirstApp\learningapp\bin\Publish\learningapp.exe
+C:\Projekte\FirstApp\learningapp\bin\Publish\appsettings.Development.json
+C:\Projekte\FirstApp\learningapp\bin\Publish\appsettings.json
+C:\Projekte\FirstApp\learningapp\bin\Publish\learningapp.dll
+C:\Projekte\FirstApp\learningapp\bin\Publish\learningapp.deps.json
+C:\Projekte\FirstApp\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Projekte\FirstApp\learningapp\bin\Publish\learningapp.pdb
